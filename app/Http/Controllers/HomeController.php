@@ -26,7 +26,7 @@ class HomeController extends Controller
 
     public function index(){
         return view('home',[
-            'title'=>'NTC Store',
+            'title'=>'Bất động sản Minh Vương',
             'sliders'=> $this->slider->show(),
             'menus' => $this->menu->show(),
             'products' => $this->product->get()

@@ -67,7 +67,7 @@
         <div class="flex-w flex-sb-m p-b-52 ">
             <div class="">
                 <h3 class="cl5" style="font-weight: bold; text-align: center; color: red">
-                    HÀNG MỚI VỀ
+                    Bất động sản dành cho bạn
                 </h3>
             </div>
 

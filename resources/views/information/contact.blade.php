@@ -37,7 +37,7 @@
                         </span>
 
                         <p class="stext-115 cl6 size-213 p-t-18">
-                            Triều khúc, Thanh Xuân, Hà Nội
+                            Việt Nam
                         </p>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
                         </span>
 
                         <p class="stext-115 cl1 size-213 p-t-18">
-                            0376793817
+                            0123456789
                         </p>
                     </div>
                 </div>

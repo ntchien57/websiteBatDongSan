@@ -3,57 +3,57 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6 col-lg-3 p-b-50">
-                <h4 class="stext-301 cl0 p-b-30">
+                <h4 class="stext-301 cl0 p-b-30 text-center">
                     Danh mục
                 </h4>
 
                 <ul>
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
-                            Nữ
+                            Bán nhà
                         </a>
                     </li>
 
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
-                            Nam
+                            Bán đất
                         </a>
                     </li>
 
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
-                            Trẻ em
+                            Bán chung cư
                         </a>
                     </li>
 
                 </ul>
             </div>
 
-            <div class="col-sm-6 col-lg-3 p-b-50">
-                <h4 class="stext-301 cl0 p-b-30">
+            <div class="col-sm-6 col-lg-3 p-b-50 ">
+                <h4 class="stext-301 cl0 p-b-30 text-center">
                     Liên Hệ
                 </h4>
 
                 <ul>
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
                             Hot Line
                         </a>
                     </li>
 
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
                             Messenger
                         </a>
                     </li>
 
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
                             Zalo
                         </a>
                     </li>
 
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
                             Email
                         </a>
@@ -62,37 +62,32 @@
             </div>
 
             <div class="col-sm-6 col-lg-3 p-b-50">
-                <h4 class="stext-301 cl0 p-b-30">
+                <h4 class="stext-301 cl0 p-b-30 text-center">
                     Dich vụ khách hàng
                 </h4>
 
                 <ul>
-                    <li class="p-b-10">
-                        <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
-                            Chính sách đổi trả
-                        </a>
-                    </li>
 
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
                             Hướng dẫn mua hàng
                         </a>
                     </li>
 
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
                             Chính sách thanh toán
                         </a>
                     </li>
 
-                    <li class="p-b-10">
+                    <li class="p-b-10 text-center">
                         <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
                             Chính sách bảo hành
                         </a>
                     </li>
                 </ul>
 
-                <div class="p-t-27">
+                <div class="p-t-27 text-center">
                     <a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
                         <i class="fa fa-facebook"></i>
                     </a>
@@ -109,7 +104,7 @@
 
             <div class="col-sm-6 col-lg-3 p-b-50">
                 <h4 class="stext-301 cl0 p-b-30">
-                    Nhận các ưu đãi của NTC
+                    Nhận các ưu đãi của Minh Vương
                 </h4>
 
                 <form>
@@ -157,7 +152,7 @@
                 <script>
                     document.write(new Date().getFullYear());
                 </script> All rights reserved | Made with <i class="fa fa-heart-o"
-                    aria-hidden="true"></i> by <a href="" target="_blank">NTC</a>
+                    aria-hidden="true"></i> by <a href="" target="_blank">Minh Vương</a>
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
             </p>

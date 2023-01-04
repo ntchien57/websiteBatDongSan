@@ -11,7 +11,7 @@
 
             <!-- Logo desktop -->
             <a href="/" class="logo">
-                <img src="/template/images/icons/logo.png" alt="IMG-LOGO" >
+                <img height="80%" src="/template/images/icons/logobds.png" alt="IMG-LOGO" >
             </a>
 
             <!-- Menu desktop -->
